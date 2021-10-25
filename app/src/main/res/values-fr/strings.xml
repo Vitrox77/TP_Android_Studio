@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TopQuizz</string>
-    <string name="welcome">Welcome to TopQuizz ! What\'s your name ?</string>
-    <string name="hint">Please, enter your name</string>
-    <string name="play">Let\'s PLay !</string>
+    <string name="welcome">Bienvenu dans TopQuiz. Quel est votre prénom ?</string>
+    <string name="hint">Entrze votre nom</string>
+    <string name="play">C\'est parti</string>
     <string name="question_tag">Question?</string>
     <string name="answer1">Answer1</string>
     <string name="answer2">Answer2</string>
